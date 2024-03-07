@@ -1,0 +1,52 @@
+/*
+ * Filters Style
+ *
+ */
+
+.search-container {
+    padding-top: 40px;
+}
+
+.input-container {
+    background-color: #FFFFFF;
+    height: 70px;
+    max-width: 600px;
+    width: 100%;
+    border: 2px solid orange;
+    border-radius: 5px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+/* Filters Style */
+.filters {
+    flex: 1;
+    height: 100%;
+    border: none;
+    font-size: 18px;
+    padding-left: 20px;
+    
+}
+
+/* Search button style */
+.input-container button {
+    background:  orange;
+    border-radius: 8px;
+    border: none;
+    color: #FFFFFF;
+    float: right;
+    height: 50px;
+    width: 20%;
+    font-size: 18px;
+    margin: 12px;
+}
+
+
+
+/*change opacity to 90% when mouse is on the button*/
+.input-container button:hover {
+    opacity: 0.9;
+}
