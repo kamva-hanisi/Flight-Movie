@@ -3,11 +3,17 @@ body, h1, h2, p, ul, li {
     margin: 0;
     padding: 0;
 }
+
+
 /* Set a background color and font styles */
 body{
+    
     background-color: darkolivegreen;
-    font-family: Arial, sans-serif;
+    font-family: Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    
 }
+
+
 
 h1{
     font-size: 5rem;
@@ -72,9 +78,10 @@ nav ul li a {
     background-image: url('movies.avif'); /* Replace 'cover-image.jpg' with your image path */
     background-size: cover;
     background-position: center;
-    height: 100px; /* Adjust the height as needed */
+    height: 500px;/* Adjust the height as needed */
     text-align: center;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
@@ -85,7 +92,9 @@ nav ul li a {
 
 /* Main section styles */
 main {
+    padding: 20px;
     padding-bottom: 70px;
+    
 }
 
 /* Footer styles */
