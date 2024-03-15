@@ -1,53 +1,44 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
     <link rel="icon" href="Map/show movies.png"/>
-    <link rel="stylesheet" href="c.style.css">
+    <link href="style.css" rel="stylesheet" type="text/css" />
     <title>flax-movie</title>
-</head>
-<body>
+  </head>
+  <body>
     <header>
-        <nav>
-            <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#features">Features</a></li>
-            </ul>
-            <a href="https://kamva-hanisi.github.io/flax-movie/" class="btn">show movies</a>
-        </nav>
+        <a href="#" class="logo" ><img src="https://lh3.google.com/u/0/d/1m_WaXBOn2Q4xpa-FFacgiz2rF5W4fln8=w1395-h926-iv1" alt="flax moovies"></a>
+        <div class="toggle"><img src="https://lh3.google.com/u/0/d/1YYgaXRQGNwdOanCjqKCNKlWSUyyR2XGb=w878-h926-iv1"></div>
     </header>
-    <main>
-        <section id="cover">
-            <div class="cover-content">
-                <h1>flax-movie</h1>
-                <p></p>
+    <div class="banner">
+        <div class="content">
+            <h2>What's happening? it's show time!</h2>
+            <p>The Last Dance is a 2020 American sports documentary miniseries focusing on the 1997–98 Chicago Bulls. The series features film from a crew that had an all-access pass to the Bulls during the National Basketball Association (NBA) season. The 10-part miniseries was announced by ESPN in 2018, with an official trailer released on December 24, 2019. The first two episodes aired on April 19, 2020.</p>
+            <a href="#" class="play playBut" onclick="toggle();">
+                <div style="display: inline-block; width: 50px;">
+                    <svg id="playBtn" version="1.1"
+                    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+                    x="0px" y="0px" width="213.7px" height="213.7px" viewBox="0 0 213.7 213.7" enable-background="new 0 0 213.7 213.7"
+                    xml:space="preserve">
+                    <polygon class='triangle' id="XMLID_18_" fill="none" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+                73.5,62.5 148.5,105.8 73.5,149.1 "/>
+                    <circle class='circle' id="XMLID_17_" fill="none"  stroke-width="7" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="106.8" cy="106.8" r="103.3"/>
+                    </svg>
+                </div>
+                Watch Trailer
+            </a>
+        </div>
+    </div>
+    <div class="trailer">
+        <div class="iframe-wrap">
+            <div class="iframe-container">
+                <iframe class="iframe-video" src="https://www.youtube.com/embed/DFwkr9ffVMQ" allowfullscreen></iframe>
             </div>
-        </section>
-        <section id="about">
-            <h2>About</h2>
-            <p>This project was inspired by [personal story describing inspiration].</p>
-            <p>[Include timeline if applicable]</p>
-            <p>This project is a Portfolio Project for Holberton School.</p>
-            <p>Connect with the team members:</p>
-            <ul>
-                <li><a href="www.linkedin.com/in/hanisi-kamva-09b425250">Team Member 1's LinkedIn</a></li>
-                <li><a href="https://github.com/kamva-hanisi">Team Member 1's GitHub</a></li>
-                <li><a href="lucashanisi">Team Member 1's Twitter</a></li>
-                <!-- Repeat for other team members -->
-            </ul>
-            <p>GitHub Repository: <a href="https://github.com/kamva-hanisi/flax-movie.git">Project GitHub Repository</a></p>
-            <p>This project is a Portfolio Project for Holberton School. <a href="https://www.holbertonschool.com/">Holberton School</a></p>
-            <p>watch movies and flax and first choose!! light it on...</p>
-        </section>
-        <section id="features">
-            
-            <h2>Features</h2>
-            <p>search button watch movies last movies...</p>
-        </section>
-    </main>
-    <footer>
-        <p>&copy; 2024 flax-movie</p>
-    </footer>
-</body>
+        </div>
+        <img src="https://lh3.google.com/u/0/d/1WVNhICAO7nWaF1_G4k80WDL-JPDLNklP=w878-h926-iv1" class="close" onclick="toggle();">
+    </div>
+    
+  </body>
 </html>
