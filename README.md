@@ -9,3 +9,14 @@
 [flax-movie](https://kamva-hanisi.github.io/flax-movie/) 
 
 ![flax-movie-frontend](Map/Screenshot (8).png)
+
+## Table Of Content
+
+- [Installation](#installation)
+- [License](#license)
+- [Links](#links)
+
+## Installation
+
+This document is for the latest movies 
+- https://kamva-hanisi.github.io/flax-movie/
