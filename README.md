@@ -11,7 +11,7 @@ This is the README for the flax-movies project. Flax-movies is a [brief descript
 Live Demo: Link to Deployed Site
 
 Authors: [kamva-hanisi(s)]
-LinkedIn: Author's LinkedIn Profile
+LinkedIn: www.linkedin.com/in/hanisi-kamva-09b425250
 
 :star: Star us on GitHub — it motivates us to watch movies
 
