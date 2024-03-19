@@ -2,7 +2,7 @@
     <img src="Map/flax-movie (1).png" alt="movie logo" title="flax-movies" align="right" height="60" />
 </a>
 
-# flax movie 
+## flax movie 
 
 # Introduction
 
@@ -23,12 +23,25 @@ LinkedIn: www.linkedin.com/in/hanisi-kamva-09b425250
 
 - [Installation](#installation)
 - [License](#license)
-- [Links](#links)
 
 ## Installation
 
 This document is for the latest movies 
 - https://kamva-hanisi.github.io/flax-movie/
+
+## Usage
+
+cover page - lead you to the landing page when click show movie button
+landing page - it has a search button when click lead to another page of movies
+movies page - show the movie you want to select when click it can play
+
+# Contributing 
+
+no person contributing with , i work alone
+
+# Related projects
+
+use HTML 
 
 ## License
 
