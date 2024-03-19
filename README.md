@@ -8,4 +8,4 @@
 
 [flax-movie](https://kamva-hanisi.github.io/flax-movie/) 
 
-![flax-movie-frontend](https://user-images.githubusercontent.com/8647429/212348410-55cbaa00-722a-4a30-8b57-da9e173e0675.jpg)
+![flax-movie-frontend](Map/Screenshot (8).png)
