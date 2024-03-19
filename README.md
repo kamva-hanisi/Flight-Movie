@@ -24,7 +24,7 @@ LinkedIn: www.linkedin.com/in/hanisi-kamva-09b425250
 - [Installation](#installation)
 - [Usage](#Usage)
 - [Contribution](#Contribution)
-- [Related projects](#Related projects)
+- [Related](#Related)
 - [License](#license)
 
 ## Installation
