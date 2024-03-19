@@ -6,7 +6,7 @@
 
 # Introduction
 
-This is the README for the flax-movies project. Flax-movies is a [brief description of your project]. This project was developed as a part of [provide context if necessary, e.g., "Holberton School's Full-Stack Web Development program"]. For more details, please visit the project blog article.
+This is the README for the flax-movies project. Flax-movies is a website movie that you can watch until what time you want. This project was developed as a part of showing peolpe how to watch a movie, e.g., "action movie, comedy, ect...... . For more details, please visit the site blog article.
 
 Live Demo: Link to Deployed Site
 
@@ -44,7 +44,7 @@ no person contributing with , i work alone
 
 # Related projects
 
-use HTML 
+use HTML, .....
 
 ## License
 
