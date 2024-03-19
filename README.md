@@ -17,7 +17,7 @@ LinkedIn: www.linkedin.com/in/hanisi-kamva-09b425250
 
 [flax-movie](https://kamva-hanisi.github.io/flax-movie/) 
 
-![flax-movie-frontend] <img src="Map/Screenshot (8).png" alt="flax-movie">
+<img src="Map/Screenshot (8).png" alt="flax-movie">
 
 ## Table Of Content
 
